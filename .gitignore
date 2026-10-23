@@ -1,0 +1,2 @@
+# Data exports hold PIN hashes and the Zoom password; keep them out of git
+export/
